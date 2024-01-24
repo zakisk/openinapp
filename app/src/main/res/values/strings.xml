@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Openinapp</string>
+
+<!--    bottom navigation strings-->
+    <string name="links">Links</string>
+    <string name="courses">Courses</string>
+    <string name="campaigns">Campaigns</string>
+    <string name="profile">Profile</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="good">Good</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+</resources>
